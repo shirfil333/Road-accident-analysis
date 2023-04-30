@@ -14,6 +14,9 @@ To create an Excel based dashboard for the year 2021- 2022, to obtain insights o
 
 -Casualities by Area
 
+## Link for Excel Dashboard
+
+https://docs.google.com/spreadsheets/d/12AhtKn7yL9MVfngEFx3sGNPrXDl14bXt/edit?usp=share_link&ouid=110739680330734527053&rtpof=true&sd=true
 
 
 
